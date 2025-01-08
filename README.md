@@ -1,4 +1,4 @@
-(!logo) (https://github.com/Rupali2507/Rupali2507/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+![logo](https://github.com/Rupali2507/Rupali2507/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rupali</h1>
 <h3 align="center">Innovating with Code | Web Dev 🚀 | Blockchain 🔗 | ML & DSA Enthusiast 🤖</h3>
 
