@@ -16,12 +16,7 @@
 
 - 📫 How to reach me **rupalik.ug23.ma@nitp.ac.in**
 
-## 🌐 Connect with Me 
-<p align="left">
-<a href="https://linkedin.com/in/rupali-kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupali-kumari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rups_2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rups_2507" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jharupcyjq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jharupcyjq" height="30" width="40" /></a>
-</p>
+
 
 ## 🛠️ Languages & Tools  
 
@@ -60,6 +55,16 @@
 
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=rupali2507&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=rupali2507&color=green)
+
+#### 🌐 Connect with Me 
+<p align="left">
+<a href="https://linkedin.com/in/rupali-kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupali-kumari" height="15" width="20" /></a>
+<a href="https://www.leetcode.com/rups_2507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rups_2507" height="15" width="20" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jharupcyjq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jharupcyjq" height="15" width="20" /></a>
+</p>
 
 
 
