@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Plant Marketplace & Consultation Platform 🌱**
 
-- 🌱 I’m currently learning **MERN Stack, Blockchain Development, Machine Learning**
+
 
 - 👯 I’m looking to collaborate on **Dromed 🚁 – A drone-based emergency delivery system**
 
-- 💬 Ask me about **React, Node.js, Blockchain, DSA**
+
 
 - 📫 How to reach me **rupalik.ug23.ma@nitp.ac.in**
 
