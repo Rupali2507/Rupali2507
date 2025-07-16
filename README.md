@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rupali</h1>
 <h3 align="center"> Web Developer 🚀 |  ML & DSA Enthusiast 🤖</h3>
 
-**Sophomore at NIT Patna**, passionate about **Web Development, DSA, Blockchain, and AI/ML**. I love building innovative solutions, contributing to open source, and participating in hackathons.
+**Sophomore at NIT Patna**, passionate about **Web Development, DSA, and AI/ML**. I love building innovative solutions, contributing to open source, and participating in hackathons.
 
 ## 🚀 About Me  
 
