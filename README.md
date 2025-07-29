@@ -2,20 +2,18 @@
 <h1 align="center">Hi 👋, I'm Rupali</h1>
 <h3 align="center"> Web Developer 🚀 |  ML & DSA Enthusiast 🤖</h3>
 
-**Sophomore at NIT Patna**, passionate about **Web Development, DSA, and AI/ML**. I love building innovative solutions, contributing to open source, and participating in hackathons.
+
+🎓 I'm a 3rd-year Dual Degree (B.Tech + M.Tech) Mathematics and Computing student at **NIT Patna**, passionate about **Web Development**, **Machine Learning**, and solving real-world problems through code.
 
 ## 🚀 About Me  
 
-- 🔭 I’m currently working on **Plant Marketplace & Consultation Platform 🌱**
-
-
-
-- 👯 I’m looking to collaborate on **Dromed 🚁 – A drone-based emergency delivery system**
-
-
-
-- 📫 How to reach me **rupalik.ug23.ma@nitp.ac.in**
-
+- 🌐 I love building full-stack applications that are fast, scalable, and user-friendly  
+- 💡 Enthusiastic about applying AI to real-world use cases  
+- 🛠️ Continuously sharpening my skills in **DSA** and **Core CS Subjects**  
+- 🤝 Open to collaborating on innovative web or ML-based projects  
+- 📬 **Actively seeking internship opportunities** to gain hands-on industry experience  
+- 💬 I enjoy participating in hackathons, exploring open-source, and learning new technologies  
+- 📫 Reach me at: **rupalik.ug23.ma@nitp.ac.in**
 
 
 ## 🛠️ Languages & Tools  
