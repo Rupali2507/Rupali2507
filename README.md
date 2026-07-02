@@ -117,31 +117,7 @@ Passionate about building scalable software, solving challenging algorithmic pro
 
 
 
-# 📊 GitHub Stats
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rupali2507&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupali2507&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=rupali2507&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rupali2507&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rupali2507&theme=tokyonight&no-frame=true"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
