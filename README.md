@@ -115,40 +115,6 @@ Passionate about building scalable software, solving challenging algorithmic pro
 
 ---
 
-# 🚀 Featured Projects
-
-### 🌞 Solar Flare Watch
-AI-powered platform for solar flare prediction and visualization.
-
-**Tech:** React • FastAPI • Docker • AWS • Nginx
-
----
-
-### 💰 AnomaNet
-Real-time Anti-Money Laundering detection using Graph Neural Networks.
-
-**Tech:** Spring Boot • FastAPI • Neo4j • PostgreSQL • Kafka • Redis
-
----
-
-### 🚢 Autonomous Maritime Surveillance
-
-Multi-Agent Reinforcement Learning environment for intelligent naval surveillance.
-
-**Tech:** Python • Gymnasium • RL • Pygame
-
----
-
-### 🌱 Plant Marketplace
-
-Full Stack MERN Marketplace with virtual consultancy.
-
-**Tech:** MongoDB • Express • React • Node.js
-
----
-
-
-
 
 
 # 📊 GitHub Stats
@@ -182,8 +148,6 @@ Full Stack MERN Marketplace with virtual consultancy.
 <p>
 <a href="https://linkedin.com/in/rupali-kumari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:rupalik.ug23.ma@nitp.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-<a href="https://leetcode.com/rups_2507"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
-<a href="https://auth.geeksforgeeks.org/user/jharupcyjq"><img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks"/></a>
 </p>
 
 ---
