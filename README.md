@@ -190,6 +190,6 @@ Full Stack MERN Marketplace with virtual consultancy.
 
 ## 💡 Quote
 
-> **""First, solve the problem. Then, write the code." — John Johnson 🚀**
+> **First, solve the problem. Then, write the code." — John Johnson 🚀**
 
 ⭐ *Thanks for visiting my profile! If you like my work, don't forget to ⭐ my repositories..*
